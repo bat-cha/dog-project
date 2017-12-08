@@ -4,6 +4,7 @@ dogImages.zip
 lfw/
 lfw.zip
 saved_models/weights.best.from_scratch.hdf5
+saved_models/weights.best.from_scratch_augmented.hdf5
 saved_models/weights.best.vgg16.hdf5
 saved_models/weights.best.vgg19.hdf5
 saved_models/weights.best.InceptionV3.hdf5
