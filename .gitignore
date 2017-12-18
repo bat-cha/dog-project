@@ -10,10 +10,13 @@ saved_models/weights.best.vgg19.hdf5
 saved_models/weights.best.InceptionV3.hdf5
 saved_models/weights.best.Resnet50.hdf5
 saved_models/weights.best.Xception.hdf5
+saved_models/weights.best.myhotdog.hdf5
 .ipynb_checkpoints/
 bottleneck_features/DogVGG16Data.npz
 bottleneck_features/DogVGG19Data.npz
 bottleneck_features/DogInceptionV3Data.npz
 bottleneck_features/DogResnet50Data.npz
 bottleneck_features/DogXceptionData.npz
+bottleneck_features/DogXceptionData_augmented.npz
 __pycache__
+.idea
