@@ -20,3 +20,4 @@ bottleneck_features/DogXceptionData.npz
 bottleneck_features/DogXceptionData_augmented.npz
 __pycache__
 .idea
+*.pyc
